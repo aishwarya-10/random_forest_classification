@@ -36,7 +36,7 @@ The model training phase involved the following steps: <br/>
 **Test-train split:** The data was split into a 20% test set and a remaining training set. <br/>
 **Calculating class weights:** Class weights were calculated to account for imbalanced training samples. <br/>
 **Hyperparameter tuning:** The model's hyperparameters were adjusted to optimize performance. <br/>
-**Training the model:** The final step involved training the model using the RandomForestClassifier algorithm. Random forest shows better classification accuracy in comparison to other machine learning algorithms from the literature study
+**Training the model:** The final step involved training the model using the RandomForestClassifier algorithm. Random forest shows better classification accuracy in comparison to other machine learning algorithms from the literature study.
 
 # How it works...
 ## Dataset Details
